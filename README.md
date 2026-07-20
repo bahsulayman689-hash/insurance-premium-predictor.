@@ -7,7 +7,7 @@ Built with **Python**, **Scikit-Learn**, and **Streamlit**.
 ---
 
 ## 🚀 Live Demo
-🔗 **[Deploy Link Placeholder - Replace with your Streamlit App URL once live]**
+🔗 **[https://insurance-premium-predictor-4ankzjpv3zpishogphc2yh.streamlit.app/]**
 
 ---
 
