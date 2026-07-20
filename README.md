@@ -1,5 +1,3 @@
-# insurance-premium-predictor.
-this the insurance premium
 # 🏥 Medical Insurance Cost Estimator
 
 An interactive, end-to-end Machine Learning web application that predicts annual and monthly medical insurance premiums based on individual health habits and demographic metrics.
@@ -69,6 +67,6 @@ streamlit run app.py
 Machine Learning & Web App Developer
 
 Feel free to reach out or check out my other work:
-* 📁 [GitHub Profile](https://github.com)
-* 💼 [LinkedIn Profile](https://linkedin.com)
-* 📧 [Email Support](mailto:your-email@example.com)
+* 📁 [GitHub Profile](https://github.com/bahsulayman689-hash)
+* 💼 [LinkedIn Profile](https://linkedin.com/in/WIN_20250906_05_26_12_Pro.jpg)
+* 📧 [Email Support](http://bahsulayman689@gmail.com)
