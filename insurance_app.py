@@ -111,7 +111,7 @@ else:
             prediction = model.predict(scaled_input)
             
             # Format outputs safely
-            final_charge = max(0.0, float(prediction))
+            final_charge = max(0.0, float(prediction.item()))
 
             # 8. UI Dashboard Panels for Displaying Outputs
             result_col1, result_col2, result_col3 = st.columns(3)
